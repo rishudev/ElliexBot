@@ -18,9 +18,9 @@ Can be found on telegram as [✨ Ellie ✨](https://t.me/ellie_xbot).
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rishudev/ElliexBot)
 
 ## Credits
-• [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module.
-• [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more.
-• MrYacha, Ayra Hikari and Mizukito Akito for Federations.
+• [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module. </br>
+• [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more. </br>
+• MrYacha, Ayra Hikari and Mizukito Akito for Federations. </br>
 • 1maverick1 for welcome mutes.
 
 
