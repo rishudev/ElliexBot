@@ -1,4 +1,4 @@
-# Ellie
+# Ellie X Bot
 
 <p align="center">
   <img src="https://telegra.ph/file/4f469b7e02fa9586f442a.jpg">
