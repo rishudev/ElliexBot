@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://telegra.ph/file/4f469b7e02fa9586f442a.jpg">
 </p>
+<p align="center">
+  <a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a>
+</p>
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
